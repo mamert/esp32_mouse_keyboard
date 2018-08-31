@@ -1,3 +1,9 @@
+# Fork of https://github.com/asterics/esp32_mouse_keyboard
+Nothing of interest here yet.
+
+
+
+
 # ESP32 Mouse/Keyboard for BLE HID
 ESP32 implementation for HID over GATT Keyboard and Mouse (Bluetooth Low Energy). Including serial API for external modules (similar to Adafruit EZKey HID).
 
